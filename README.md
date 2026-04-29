@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @DaveM
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python on codecademy
-- 💞️ I’m looking to collaborate on learning 
+- 👋 Hi, I’m
+- 👀 Festo and Kivotz working on Futures
+- 🌱 Need that money
 
 
 <!---
